@@ -3,4 +3,4 @@
   $second = 10;
   $mul = $first*$second;
   echo $mul;
-?>
+?> 
